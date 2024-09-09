@@ -64,7 +64,7 @@ Customer segmentation is the process of uncovering insights about a firm's custo
 
 In this project, we explore various data visualizations and perform K-Means clustering to segment customers based on their age, annual income, and spending score.
 """)
-st.sidebar.write("Model by Engineer Shahan Nafees")
+st.sidebar.write("Prepared by Engineer Shahan Nafees")
 
 st.sidebar.header("Filters")
 selected_option = st.sidebar.selectbox("Select Visualization", 
